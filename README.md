@@ -3,6 +3,8 @@ Dzongkha grammar correction system using NLLB-200 model.
 ## Dataset
 Dataset was developed by groupmates manually where there is pair of wrong and a right word.<br>
 Sample: https://huggingface.co/docs/transformers/en/tasks/translation
+## Model
+huggingface: https://huggingface.co/facebook/nllb-200-distilled-600M
 ## Project Architecture
 ![grammarBanner](https://github.com/Hemanthlepcha/Grammar_correction/assets/96452234/e593a32a-e6e9-4fb6-8480-a4eecc8a10f9)
 
